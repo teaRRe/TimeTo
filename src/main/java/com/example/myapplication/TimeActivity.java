@@ -10,6 +10,7 @@ import android.widget.Chronometer;
 
 /**
  * Created by TEARREAL on 2018/4/30.
+ * chronometer控件实现秒表
  */
 
 public class TimeActivity extends Activity {

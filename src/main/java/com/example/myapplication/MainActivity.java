@@ -19,6 +19,9 @@ import java.util.Date;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/**
+ * 4个Time+TimerTask+Handler实现秒表
+ */
 public class MainActivity extends AppCompatActivity {
 
     private TextView text_show;
