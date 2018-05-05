@@ -1,2 +1,2 @@
 # TimeTo
-A Countdown application for learning purpose.
+A Time application for learning purpose.....O_O
